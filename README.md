@@ -1,8 +1,4 @@
-# cricket_tracking
-Analysis and visualisation of cricket data with ball tracking.
+# NFL Kicker Scatterplots
+Analysis and visualisation of NFL data with player tracking.
 
-Visualisations are compatible with standard Hawkeye cricket pitch dimensions and data specification.
-
-See the `examples` folder for usage of pitch views and plot templates.
-
-![Example gallery](assets/gallery.png)
+Forked off of [OpenGoalApp's Cricket Visualization](https://github.com/opengoalapp/cricket_tracking)
